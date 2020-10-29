@@ -1,0 +1,19 @@
+@font-face {
+    font-family: ArialBlack;
+    src: url(../fonts/ArialBlack.ttf);
+}
+
+@font-face {
+    font-family: ArialMT;
+    src: url(../fonts/ARIALMT.ttf);
+}
+*{
+    margin: 0;
+    padding: 0; 
+    border: 0;
+}
+
+#header{
+    background-color: aqua;
+    color: black;
+}
